@@ -1,6 +1,6 @@
 #include <stdio.h>
-//测试拉取2
+//拉取测试
 int main() {
-    printf("Hello, World!1111\n");
+    printf("这是一次拉取测试\n");
     return 0;
 }
